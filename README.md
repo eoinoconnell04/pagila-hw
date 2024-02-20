@@ -38,7 +38,7 @@ The following picture illustrates the database's structure:
        ```
        $ docker-compose up -d --build
        ```
-       Then run the the test case script with
+       Then run the the test case script with 
        ```
        $ docker-compose exec pg ./run_tests.sh
        ```
